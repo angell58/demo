@@ -1,4 +1,6 @@
 # demo
-My frist Git Repository. (supposed to be fun)
+<h1> My first Git Repository. </h1> (supposed to be fun)
 <br>
 Author- Angel Maharjan
+
+
